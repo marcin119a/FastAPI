@@ -14,6 +14,12 @@ jobs:
             pages: 8
           - city: krakow
             pages: 10
+          - city: wroclaw
+            pages: 12
+          - city: gdansk
+            pages: 10
+          - city: sopot
+            pages: 6
 
     steps:
       - name: Checkout repo
