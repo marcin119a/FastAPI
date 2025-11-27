@@ -172,9 +172,3 @@ docker push ghcr.io/USERNAME/housing-api:latest
 ---
 
 ---
-
-# 🎁 **Chcesz wersję 2: to zadanie + CI/CD pipeline (GitHub Actions)?**
-
-Mogę przygotować kompletne Zadanie 3: “automatyczne budowanie i publikacja kontenera w GHCR po każdym pushu”.
-
-Powiedz — zrobię w tym samym stylu.
